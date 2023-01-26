@@ -1,6 +1,6 @@
 #Cubes
-![3 cubes](/relative/path/to/img.jpg?raw=true "3 cubes")
+![3 cubes](/docs/fundamentals.png?raw=true "3 cubes")
 
 
 #Primitives
-![primitives](/relative/path/to/img.jpg?raw=true "primitives w/ random material")
+![primitives](/docs/primitives.png?raw=true "primitives w/ random material")
