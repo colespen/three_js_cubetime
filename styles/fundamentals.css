@@ -22,6 +22,7 @@ html, body {
   background-color: #5a5864;
   background-repeat: no-repeat;
   background-position: 50%;
+  box-shadow: -5px 0px 9px black;
 }
 .gutter.gutter-horizontal {
   cursor: ew-resize;
